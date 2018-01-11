@@ -1,0 +1,2 @@
+# myAngularProject
+angular-project
