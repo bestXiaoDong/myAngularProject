@@ -1,2 +1,0 @@
-# myAngularProject
-angular-project
